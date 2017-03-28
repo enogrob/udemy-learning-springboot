@@ -18,10 +18,10 @@ Learn everything you need to about the subject of this `Udemy` project.
 Section: 1
 0 / 4
 Building a Spring Boot App from Scratch with Spring Initializr
-[ ] 1. The Course Overview 3:03
-[ ] 2. Website Navigation 5:43
-[ ] 3. Picking Options for Our App 6:34
-[ ] 4. Unpacking and Importing the Bundled App into Our IDE 9:11
+[x] 1. The Course Overview 3:03
+[x] 2. Website Navigation 5:43
+[x] 3. Picking Options for Our App 6:34
+[x] 4. Unpacking and Importing the Bundled App into Our IDE 9:11
 
 Section: 2
 0 / 2
