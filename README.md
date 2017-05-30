@@ -21,7 +21,7 @@ Building a Spring Boot App from Scratch with Spring Initializr
 [x] 1. The Course Overview 3:03
 [x] 2. Website Navigation 5:43
 [x] 3. Picking Options for Our App 6:34
-[x] 4. Unpacking and Importing the Bundled App into Our IDE 9:11
+[ ] 4. Unpacking and Importing the Bundled App into Our IDE 9:11
 
 Section: 2
 0 / 2
