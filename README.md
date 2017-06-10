@@ -26,7 +26,7 @@ Building a Spring Boot App from Scratch with Spring Initializr
 Section: 2
 0 / 2
 Defining the Domain
-[ ] 5. Creating a JPA Entity to Represent an Image 3:23
+[x] 5. Creating a JPA Entity to Represent an Image 3:23
 [ ] 6. Creating a Repository Interface for the Image Domain Object 5:58
 
 Section: 3
