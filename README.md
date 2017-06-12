@@ -27,7 +27,7 @@ Section: 2
 0 / 2
 Defining the Domain
 [x] 5. Creating a JPA Entity to Represent an Image 3:23
-[ ] 6. Creating a Repository Interface for the Image Domain Object 5:58
+[x] 6. Creating a Repository Interface for the Image Domain Object 5:58
 
 Section: 3
 0 / 3
