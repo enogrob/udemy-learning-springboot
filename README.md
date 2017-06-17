@@ -32,7 +32,7 @@ Defining the Domain
 Section: 3
 0 / 3
 Creating a File Upload Controller
-[ ] 7. Creating a Service to Store Images 9:08
+[~] 7. Creating a Service to Store Images 9:08
 [ ] 8. Creating a Spring MVC Controller to Handle Incoming Requests 10:14
 [ ] 9. Handling Images with cURL 6:15
 
